@@ -1,0 +1,65 @@
+[System Process]	0	TCP	desktop-jnikefv.ksd.edu	ms-do	desktop-njnncjj.ksd.edu	52284	TIME_WAIT										
+[System Process]	0	TCP	desktop-jnikefv.ksd.edu	ms-do	tt-105-jy1zh12.ksd.edu	55701	TIME_WAIT										
+[System Process]	0	TCP	desktop-jnikefv.ksd.edu	ms-do	ad-it-ff5qlc2.ksd.edu	64496	TIME_WAIT										
+[System Process]	0	TCP	desktop-jnikefv.ksd.edu	ms-do	ad-it-gzgslc2.ksd.edu	64564	TIME_WAIT										
+[System Process]	0	TCP	desktop-jnikefv.ksd.edu	ms-do	ad-it-cp09j12.ksd.edu	53297	TIME_WAIT										
+[System Process]	0	TCP	desktop-jnikefv.ksd.edu	50356	ad-it-3m9r5h2.ksd.edu	ms-do	TIME_WAIT										
+[System Process]	0	TCP	desktop-jnikefv.ksd.edu	ms-do	desktop-njnncjj.ksd.edu	52284	TIME_WAIT										
+[System Process]	0	TCP	desktop-jnikefv.ksd.edu	50355	52.169.83.3	https	TIME_WAIT										
+firefox.exe	4976	TCP	DESKTOP-JNIKEFV	49704	localhost	49705	ESTABLISHED			2	2						
+firefox.exe	4976	TCP	DESKTOP-JNIKEFV	49705	localhost	49704	ESTABLISHED	2	2								
+firefox.exe	5492	TCP	DESKTOP-JNIKEFV	49707	localhost	49708	ESTABLISHED										
+firefox.exe	5492	TCP	DESKTOP-JNIKEFV	49708	localhost	49707	ESTABLISHED										
+firefox.exe	6588	TCP	DESKTOP-JNIKEFV	49713	localhost	49714	ESTABLISHED										
+firefox.exe	6588	TCP	DESKTOP-JNIKEFV	49714	localhost	49713	ESTABLISHED										
+firefox.exe	4976	TCP	desktop-jnikefv.ksd.edu	49721	ec2-34-223-240-82.us-west-2.compute.amazonaws.com	https	ESTABLISHED										
+firefox.exe	3788	TCP	DESKTOP-JNIKEFV	50005	localhost	50006	ESTABLISHED										
+firefox.exe	3788	TCP	DESKTOP-JNIKEFV	50006	localhost	50005	ESTABLISHED										
+firefox.exe	6556	TCP	DESKTOP-JNIKEFV	50068	localhost	50069	ESTABLISHED										
+firefox.exe	6556	TCP	DESKTOP-JNIKEFV	50069	localhost	50068	ESTABLISHED										
+firefox.exe	4976	TCP	desktop-jnikefv.ksd.edu	50143	lb-192-30-253-124-iad.github.com	https	ESTABLISHED	1	35	1	31						
+firefox.exe	3836	TCP	DESKTOP-JNIKEFV	50208	localhost	50209	ESTABLISHED										
+firefox.exe	3836	TCP	DESKTOP-JNIKEFV	50209	localhost	50208	ESTABLISHED										
+lsass.exe	588	TCP	DESKTOP-JNIKEFV	49670	DESKTOP-JNIKEFV	0	LISTENING										
+lsass.exe	588	TCPV6	desktop-jnikefv	49670	desktop-jnikefv	0	LISTENING										
+SearchUI.exe	4748	TCP	desktop-jnikefv.ksd.edu	50342	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	4748	TCP	desktop-jnikefv.ksd.edu	50343	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	4748	TCP	desktop-jnikefv.ksd.edu	50344	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	4748	TCP	desktop-jnikefv.ksd.edu	50345	204.79.197.220	https	CLOSE_WAIT										
+services.exe	580	TCP	DESKTOP-JNIKEFV	49668	DESKTOP-JNIKEFV	0	LISTENING										
+services.exe	580	TCPV6	desktop-jnikefv	49668	desktop-jnikefv	0	LISTENING										
+spoolsv.exe	2152	TCP	DESKTOP-JNIKEFV	49667	DESKTOP-JNIKEFV	0	LISTENING										
+spoolsv.exe	2152	TCPV6	desktop-jnikefv	49667	desktop-jnikefv	0	LISTENING										
+svchost.exe	828	TCP	DESKTOP-JNIKEFV	epmap	DESKTOP-JNIKEFV	0	LISTENING										
+svchost.exe	3164	TCP	DESKTOP-JNIKEFV	5040	DESKTOP-JNIKEFV	0	LISTENING										
+svchost.exe	1172	TCP	DESKTOP-JNIKEFV	49665	DESKTOP-JNIKEFV	0	LISTENING										
+svchost.exe	352	TCP	DESKTOP-JNIKEFV	49666	DESKTOP-JNIKEFV	0	LISTENING										
+svchost.exe	2584	TCP	desktop-jnikefv.ksd.edu	49674	52.173.26.181	https	ESTABLISHED										
+svchost.exe	4800	TCP	desktop-jnikefv.ksd.edu	49857	sv-cash-2z91t52.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	4800	TCP	DESKTOP-JNIKEFV	ms-do	DESKTOP-JNIKEFV	0	LISTENING										
+svchost.exe	7004	UDP	desktop-jnikefv.ksd.edu	ssdp	*	*											
+svchost.exe	7004	UDP	DESKTOP-JNIKEFV	ssdp	*	*											
+svchost.exe	3164	UDP	DESKTOP-JNIKEFV	5050	*	*											
+svchost.exe	1656	UDP	DESKTOP-JNIKEFV	5353	*	*											
+svchost.exe	1656	UDP	DESKTOP-JNIKEFV	llmnr	*	*											
+svchost.exe	7004	UDP	desktop-jnikefv.ksd.edu	52892	*	*											
+svchost.exe	7004	UDP	DESKTOP-JNIKEFV	52893	*	*											
+svchost.exe	2712	UDP	DESKTOP-JNIKEFV	54245	*	*											
+svchost.exe	1420	UDP	DESKTOP-JNIKEFV	59704	*	*											
+svchost.exe	828	TCPV6	[0:0:0:0:0:0:0:0]	epmap	[0:0:0:0:0:0:0:0]	0	LISTENING										
+svchost.exe	4800	TCPV6	desktop-jnikefv	ms-do	desktop-jnikefv	0	LISTENING										
+svchost.exe	1172	TCPV6	desktop-jnikefv	49665	desktop-jnikefv	0	LISTENING										
+svchost.exe	352	TCPV6	desktop-jnikefv	49666	desktop-jnikefv	0	LISTENING										
+svchost.exe	7004	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	7004	UDPV6	[fe80:0:0:0:d9bd:43a5:924:9605]	1900	*	*											
+svchost.exe	1656	UDPV6	desktop-jnikefv	5353	*	*											
+svchost.exe	1656	UDPV6	desktop-jnikefv	5355	*	*											
+svchost.exe	7004	UDPV6	[fe80:0:0:0:d9bd:43a5:924:9605]	52890	*	*											
+svchost.exe	7004	UDPV6	[0:0:0:0:0:0:0:1]	52891	*	*											
+System	4	TCP	desktop-jnikefv.ksd.edu	netbios-ssn	DESKTOP-JNIKEFV	0	LISTENING										
+System	4	TCP	DESKTOP-JNIKEFV	microsoft-ds	DESKTOP-JNIKEFV	0	LISTENING										
+System	4	UDP	desktop-jnikefv.ksd.edu	netbios-ns	*	*				6	300						
+System	4	UDP	desktop-jnikefv.ksd.edu	netbios-dgm	*	*											
+System	4	TCPV6	desktop-jnikefv	microsoft-ds	desktop-jnikefv	0	LISTENING										
+wininit.exe	484	TCP	DESKTOP-JNIKEFV	49664	DESKTOP-JNIKEFV	0	LISTENING										
+wininit.exe	484	TCPV6	desktop-jnikefv	49664	desktop-jnikefv	0	LISTENING										
